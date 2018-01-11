@@ -1,0 +1,18 @@
+{
+    "nodeGreeting": {
+        "lambda": {
+            "message": {
+                "type": "text",
+                "text": "おはよう"
+            }
+        }
+    },
+    "team1": {
+        "lambda": {
+            "message": {
+                "type": "text",
+                "text": " good morning??"
+            }
+        }
+    }
+}
